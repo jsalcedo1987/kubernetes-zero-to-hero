@@ -16,7 +16,7 @@ The video contains some good tips aobut kubernetes. I think that these exercises
 
 1. Clone the repository
 ```
-git clone git@github.com:jsalcedo1987/kubernetes-exercises.git
+git clone git@github.com:jsalcedo1987/kubernetes-zero-to-hero.git
 ```
 2. Go inside the directory
 ```
