@@ -18,7 +18,7 @@ kubectl delete pod banana-boat -n pineapple
 ```
 And apply the new file:
 ```
-kubectl crate -f banana-boat.yaml
+kubectl create -f banana-boat.yaml
 ```
 
 
